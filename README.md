@@ -1,7 +1,13 @@
 # jd618
-# #京东618叠蛋糕  
+# 京东618叠蛋糕  
 
-如果github网页中无法浏览图片，可以看pdf说明文件  
+**如果github网页中无法浏览图片，可以看instruction.pdf说明文件**      
+
+**如果github网页中无法浏览图片，可以看instruction.pdf说明文件**        
+
+**如果github网页中无法浏览图片，可以看instruction.pdf说明文件**
+
+
 
 1.Chrome浏览器F12在开发者模式下进入Network Condition（浏览器的 User-Agent 必须包含 jdapp）  
 
